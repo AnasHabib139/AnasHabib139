@@ -1,26 +1,27 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,50:1a1a2e,100:26D9C7&height=200&section=header&text=hey,%20i'm%20Anas%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=full-stack%20dev%20who%20got%20way%20too%20into%20LLMs&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0B2E,50:7B5EA7,100:FBC2EB&height=200&section=header&text=hey,%20i'm%20Anas%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=full-stack%20dev%20who%20got%20way%20too%20into%20LLMs&descAlignY=58&descSize=18" width="100%" />
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=26D9C7&center=true&vCenter=true&width=600&lines=building+AI+agents+that+actually+ship;NestJS+%2B+Next.js+%2B+a+little+too+much+Terraform;teaching+LLMs+to+say+%22I'm+not+sure%22;Munich+%F0%9F%87%A9%F0%9F%87%AA+%E2%80%A2+originally+Karachi+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=FBC2EB&center=true&vCenter=true&width=600&lines=building+AI+agents+that+actually+ship;NestJS+%2B+Next.js+%2B+a+little+too+much+Terraform;teaching+LLMs+to+say+%22I'm+not+sure%22;Munich+%F0%9F%87%A9%F0%9F%87%AA+%E2%80%A2+originally+Karachi+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing SVG" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=AnasHabib139&label=visitors&color=26D9C7&style=flat" alt="visitors" />
+<img src="https://komarev.com/ghpvc/?username=AnasHabib139&label=visitors&color=7B5EA7&style=flat" alt="visitors" />
 
 </div>
 
 ---
 
-<img align="right" alt="coding" width="320" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" />
+<img align="right" alt="late night coding" width="330" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" />
 
 ### 🧃 the short version
 
-- 🛠️ Full-stack AI engineer at **Redseven Entertainment** (ProSiebenSat.1) — I build internal tools for TV production folks and an AI assistant called **Nellie** that answers licensing cost questions in plain English
-- 🤖 Mostly playing with **agents, tool calling, RAG** and LLM pipelines that turn messy emails & receipts into clean data
-- 🎓 Doing my **MSc in CS @ Uni Passau**, BS from **FAST-NUCES** Karachi
-- 📄 Published an **IEEE paper** on deep learning for user mobility in 6G THz networks (yes, 6G)
-- 🇩🇪 Learning German… currently at the *"Einen Kaffee, bitte"* level
-- 💬 Ask me about: Node/Nest backends, OpenAI Agents SDK, AWS + Terraform, or why your RAG is hallucinating
-- 🌐 [anasm.fyi](https://anasm.fyi) • 📫 [anashabib139@gmail.com](mailto:anashabib139@gmail.com)
+- 🛠️ Full-stack AI engineer @ **Redseven** (ProSiebenSat.1)
+- 🤖 Built **Nellie**, an AI assistant for licensing costs
+- 🧠 Deep into **agents, tool calling & RAG**
+- 🎓 **MSc CS @ Uni Passau** · BS @ FAST-NUCES
+- 📄 Wrote an **IEEE paper** on 6G mobility (yes, 6G)
+- 🇩🇪 German level: *"Einen Kaffee, bitte"*
+- 💬 Ask me why your RAG is hallucinating
+- 🌐 [anasm.fyi](https://anasm.fyi) · 📫 [anashabib139@gmail.com](mailto:anashabib139@gmail.com)
 
 <br clear="right" />
 
@@ -34,8 +35,8 @@
   <img alt="OpenAI API" src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img alt="OpenAI Agents SDK" src="https://img.shields.io/badge/OpenAI_Agents_SDK-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img alt="Tool Calling" src="https://img.shields.io/badge/Tool_Calling-26D9C7?style=for-the-badge&logoColor=white"/>
-  <img alt="RAG" src="https://img.shields.io/badge/RAG-26D9C7?style=for-the-badge&logoColor=white"/>
+  <img alt="Tool Calling" src="https://img.shields.io/badge/Tool_Calling-7B5EA7?style=for-the-badge&logoColor=white"/>
+  <img alt="RAG" src="https://img.shields.io/badge/RAG-7B5EA7?style=for-the-badge&logoColor=white"/>
   <img alt="pgvector" src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
   <img alt="ChromaDB" src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logoColor=white"/>
@@ -64,11 +65,15 @@
 
 ### 🔨 some things i've built
 
-| | |
-|---|---|
-| 🗃️ **InsightQL** | ask your database questions in plain English — Next.js + NestJS + LangChain's SQL agent. ~3x faster than writing the SQL yourself |
-| 🐛 **bugSage** | a FastAPI debugging buddy that pulls docs & past issues from Pinecone (RAG) before suggesting a fix for your Express bug |
-| 💻 **CLI Assistant** | fully offline terminal agent on a local model via Ollama, chaining 5 tools through function calling |
+<img align="left" alt="building stuff" width="300" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" />
+
+**🗃️ InsightQL** — ask your database questions in plain English. Next.js + NestJS + LangChain's SQL agent, ~3x faster than writing the SQL yourself
+
+**🐛 bugSage** — a FastAPI debugging buddy that pulls docs & past issues from Pinecone (RAG) before suggesting a fix for your Express bug
+
+**💻 CLI Assistant** — fully offline terminal agent on a local model via Ollama, chaining 5 tools through function calling
+
+<br clear="left" />
 
 ---
 
@@ -76,10 +81,10 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnasHabib139&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0f23&title_color=26D9C7&text_color=ffffff&icon_color=53F3CE" />
-<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnasHabib139&layout=compact&langs_count=8&hide_border=true&bg_color=0f0f23&title_color=26D9C7&text_color=ffffff" />
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnasHabib139&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1A0B2E&title_color=FBC2EB&text_color=ffffff&icon_color=B69DF8" />
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnasHabib139&layout=compact&langs_count=8&hide_border=true&bg_color=1A0B2E&title_color=FBC2EB&text_color=ffffff" />
 
-<img src="https://streak-stats.demolab.com?user=AnasHabib139&hide_border=true&background=0f0f23&stroke=53F3CE&ring=26D9C7&fire=53F3CE&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=26D9C7&sideLabels=26D9C7&dates=aaaaaa" />
+<img src="https://streak-stats.demolab.com?user=AnasHabib139&hide_border=true&background=1A0B2E&stroke=B69DF8&ring=FBC2EB&fire=B69DF8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FBC2EB&sideLabels=FBC2EB&dates=aaaaaa" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnasHabib139/AnasHabib139/main/profile-3d-contrib/profile-night-green.svg" />
@@ -103,7 +108,7 @@
 ### 🤝 say hi
 
 <p align="center">
-  <a href="https://anasm.fyi"><img src="https://img.shields.io/badge/Portfolio-26D9C7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://anasm.fyi"><img src="https://img.shields.io/badge/Portfolio-7B5EA7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="mailto:anashabib139@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/anas-baqai-bo21/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
@@ -115,4 +120,4 @@
   <img width="100%" alt="snake eating my contributions" src="https://raw.githubusercontent.com/AnasHabib139/AnasHabib139/output/github-snake.svg" />
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:26D9C7,50:1a1a2e,100:0f0f23&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBC2EB,50:7B5EA7,100:1A0B2E&height=120&section=footer" width="100%" />
