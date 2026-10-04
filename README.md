@@ -10,7 +10,7 @@
 
 ---
 
-<img align="right" alt="late night coding" width="330" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" />
+<img align="right" alt="late night coding" width="38%" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" />
 
 ### 🧃 the short version
 
@@ -65,7 +65,7 @@
 
 ### 🔨 some things i've built
 
-<img align="left" alt="building stuff" width="300" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" />
+<img align="left" alt="building stuff" width="35%" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" />
 
 **🗃️ InsightQL** — ask your database questions in plain English. Next.js + NestJS + LangChain's SQL agent, ~3x faster than writing the SQL yourself
 
